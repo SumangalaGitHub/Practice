@@ -12,7 +12,7 @@ public class CollectionsPractice {
 	
 	//ArrayList	
 	String str[] = new String[10];
-			str[0]= "Suma";
+			str[0]= "Sumangala";
 			str[1]="ABC";
 	ArrayList<String> strAL= new ArrayList<String>();
 	
